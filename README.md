@@ -27,7 +27,8 @@
 <h2>使用方法</h2>
 
 <h3>1.直接使用命令行推理</h3>
-<code>yolo detect predict model=path/to/best.pt source='https://ultralytics.com/images/bus.jpg' </code>
+
+    yolo detect predict model=path/to/best.pt source='https://ultralytics.com/images/bus.jpg'
 
 <h3>2.对应python代码示例</h3>
 
