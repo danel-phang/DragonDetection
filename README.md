@@ -1,8 +1,24 @@
-# DragonDetection  
+<h1 align="center">
+  <a>
+    <img src="./1.png" alt="1" height="96px" >
+  </a>
+  <br>
+  DragonDetection
+</h1>  
+  <p  align="center">基于YOLOv8的目标检测的龙图识别</p>
 
-![1](./1.jpg)  
 
-基于YOLOv8的目标检测的龙图识别  
+<h2 >
+检测结果示例
+</h2>  
+<div>
+  <img src="./result.jpg" height="230px"> 
+  <img src="./result1.jpg" height="230px"> 
+  <img src="./result2.jpg" height="230px"> 
+  <img src="./result3.jpg" height="230px">
+</div>
+
+ 
 
 ## 模型
 
