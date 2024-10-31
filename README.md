@@ -1,6 +1,6 @@
 <h1 align="center">
   <a>
-    <img src="./1.png" alt="1" height="96px" >
+    <img src="./1.png" alt=龙图检测" height="96px" >
   </a>
   <br>
   DragonDetection
@@ -12,10 +12,10 @@
 检测结果示例
 </h2>  
 <div>
-  <img src="./result.jpg" height="230px"> 
-  <img src="./result1.jpg" height="230px"> 
-  <img src="./result2.jpg" height="230px"> 
-  <img src="./result3.jpg" height="230px">
+  <img src="./result.jpg" height="230px" alt=龙图检测"> 
+  <img src="./result1.jpg" height="230px" alt=龙图检测"> 
+  <img src="./result2.jpg" height="230px" alt=龙图检测"> 
+  <img src="./result3.jpg" height="230px" alt=龙图监测">
 </div>
 
  
