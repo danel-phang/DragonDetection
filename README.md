@@ -5,7 +5,7 @@
   <br>
   DragonDetection
 </h1>  
-  <p  align="center">基于YOLOv8的目标检测的龙图识别</p>
+  <p  align="center">基于YOLOv8目标检测的龙图识别</p>
 
 
 <h2 >
