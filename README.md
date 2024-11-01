@@ -3,9 +3,9 @@
     <img src="./1.png" alt=龙图检测" height="96px" >
   </a>
   <br>
-  DragonDetection
+  DragonRecognition
 </h1>  
-  <p  align="center">基于YOLOv8目标检测的龙图识别</p>
+  <p  align="center">基于YOLOv8目标检测的龙图识别,训练集为600张龙图表情包</p>
 
 
 <h2 >
