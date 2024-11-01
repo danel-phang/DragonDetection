@@ -12,10 +12,10 @@
 检测结果示例
 </h2>  
 <div>
-  <img src="./result.jpg" height="230px" alt=龙图检测"> 
-  <img src="./result1.jpg" height="230px" alt=龙图检测"> 
-  <img src="./result2.jpg" height="230px" alt=龙图检测"> 
-  <img src="./result3.jpg" height="230px" alt=龙图监测">
+  <img src="./result.jpg" height="210px" alt=龙图检测"> 
+  <img src="./result1.jpg" height="210px" alt=龙图检测"> 
+  <img src="./result2.jpg" height="210px" alt=龙图检测"> 
+  <img src="./result3.jpg" height="210px" alt=龙图监测">
 </div>
 
  
